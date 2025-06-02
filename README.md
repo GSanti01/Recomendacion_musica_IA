@@ -10,6 +10,7 @@ Identificar y recomendar posibles exitos musicales usando diferentes modelos de 
 
 # Información del dataset:
 Nuestro dataset fue extraido directamente de Kaggle, recopila las canciones más populares y escuchadas en Spotify en 2023, contando con un total de 954 filas y 24 columnas.
+Enlace: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 # Modelos utilizados en este proyecto:
 1. Algoritmo genético
