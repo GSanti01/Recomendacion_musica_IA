@@ -12,7 +12,7 @@ Identificar y recomendar posibles exitos musicales usando diferentes modelos de 
 Nuestro dataset fue extraido directamente de Kaggle, recopila las canciones más populares y escuchadas en Spotify en 2023, contando con un total de 954 filas y 24 columnas.
 
 # Modelos utilizados en este proyecto:
-1. Algortimo genético
+1. Algoritmo genético
 2. Modelo de regresión lineal
 3. Random Forest
 4. Red neuronal
