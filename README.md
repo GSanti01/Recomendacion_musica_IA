@@ -1,3 +1,5 @@
+![Foto proyecto](logopro.png.jpg)
+
 # Recomendación de musica IA (VibeMatch)
 
 # Autores:
