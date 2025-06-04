@@ -1,6 +1,6 @@
-![Foto proyecto](logopro.png.jpg)
-
 # Recomendación de musica IA (VibeMatch)
+
+![Foto proyecto](logopro.png.jpg)
 
 # Autores:
 1. Carlos Alejandro Cepeda - 2202011
