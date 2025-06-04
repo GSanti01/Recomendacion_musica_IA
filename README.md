@@ -24,5 +24,5 @@ Enlace: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 # Enlaces:
 1. Diapositivas: https://www.canva.com/design/DAGhStqhT0c/dKqMW1aWa-LFF4MPVDucgQ/edit
-2. Código: https://colab.research.google.com/drive/1m4gKZwry7-Emug-ycCCoSDKP84QDhhvA?usp=sharing#scrollTo=gPs9pHXyWHBk
-3. Video: 
+2. Código: https://colab.research.google.com/drive/1m5FUTT_7AJbB6t2HeuwtEiyvnlX4jCln
+3. Video: https://www.youtube.com/watch?v=pcCxCQIGzdg
